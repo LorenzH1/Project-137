@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+
+.p{
+    font-size: 16px;
+    color: black;
+}
+
+.bold{
+    font-size: 14px;
+    color: white;
+}
+
+#object_input{
+    width:25%;
+}
+
+#Start{
+    font-size: 19px;
+}
+
+#number_of_objects, #Status{
+    font-size: 18px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid orangered;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px orangered;
+}
